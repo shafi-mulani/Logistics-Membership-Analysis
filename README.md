@@ -117,6 +117,11 @@ Logistics-Membership-Analysis/
 │
 └── README.md
 ```
+## 📌 Business Recommendations
+
+- Target expired members with renewal campaigns
+- Promote certifications to increase member value
+- Focus marketing on high-revenue segments (Professional members)
 ---
 
 ## ▶️ How to Run this Project
