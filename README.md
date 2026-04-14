@@ -32,7 +32,7 @@ These issues made the data unreliable for analysis and decision-making.
 ---
 
 ## 📂 Dataset
-- Source: Membership dataset (CSV format)
+- Source: Membership dataset ([CSV format()](https://github.com/shafi-mulani/Logistics-Membership-Analysis/commit/a643521a39cba9666a93f148d9a5388521ca554d))
 - Contains:
   - Member details (ID, Name, Address)
   - Membership type
