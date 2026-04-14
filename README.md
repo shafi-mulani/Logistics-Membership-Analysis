@@ -90,7 +90,9 @@ The Tableau dashboard provides:
 - Certification Distribution
 
 📸 Dashboard Preview:
-![Dashboard](<img width="1280" height="1024" alt="mbd tableau ss" src="https://github.com/user-attachments/assets/f771a51b-be42-4295-8998-3adc30078d4f" />
+![[Dashboard](https://github.com/shafi-mulani/Logistics-Membership-Analysis/commit/d8dae5b02e507dd32f18e6218fd51648608d7e8a)]
+
+(<img width="1280" height="1024" alt="mbd tableau ss" src="https://github.com/user-attachments/assets/f771a51b-be42-4295-8998-3adc30078d4f" />
 )
 
 ----
